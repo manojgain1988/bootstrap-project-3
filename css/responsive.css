@@ -1,0 +1,8 @@
+
+@media screen  and (max-width:375px){
+    
+    #hero .text h1{
+        text-align: center;
+        margin-left: 40px;
+    }
+}
